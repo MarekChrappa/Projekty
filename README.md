@@ -7,3 +7,4 @@
     1. Zadanie len jednoduchá práca na uprave kodu
     2. zadanie Implementovaná Server side logika hry. Viac rôznych klientov, hight score registrácia etc.:
     3. Zadanie Práca aj s databázami, rôzne merania.
+- Ztiap - Jednoduchá hra spravená v javascripte
