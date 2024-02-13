@@ -1,0 +1,5 @@
+id,email,name,password,age,height,isAdmin,created_at,updated_at
+1,"jozko@mrkvicka.com","Jozko","$2a$10$cnzrmqdr1JkN6dTpzHOTFuevRAhhwqiVfROiOMhSLP9e4nhgl7TgK",220,22,0,"2022-12-02T00:30:35.000Z","2022-12-02T00:30:35.000Z"
+2,"admin@admin","admin","$2a$10$cbDM7LeuZKtivr7Sd1lh7uOHjytFfw..e6c9c4/TBsNxG2O3VAiVi",220,22,1,"2022-12-02T00:30:35.000Z","2022-12-02T00:30:35.000Z"
+3,"a","a","$2a$10$f9M4xYuBWkADReCYlhWasePk4I0L5dCCjYEoYS9b7hZz1E.zwOtoC",2,2,0,"2022-12-02T00:31:15.000Z","2022-12-02T00:31:15.000Z"
+4,"b","b","$2a$10$7Bf.0sFklhLCrdhCt1K.y.aCPTjuETG141tud99IwyZpsBJbhAQSi",2,2,0,"2022-12-02T00:31:34.000Z","2022-12-02T00:31:34.000Z"

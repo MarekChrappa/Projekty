@@ -1,0 +1,16 @@
+{
+     "name": "p4",
+     "version": "1.0.0",
+     "description": "Super Truper Kalkulacka",
+     "main": "src/main.js",
+     "scripts": {
+          "test": "mocha",
+          "start": "node src/main.js"
+     },
+     "author": "",
+     "license": "ISC",
+     "dependencies": {
+          "mocha": "^10.0.0"
+     },
+     "devDependencies": {}
+}

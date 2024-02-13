@@ -1,0 +1,4 @@
+- vytvorte jednoduchu react aplikaciu s 3 komponentmi pricom aplikacia bude vediet zobrazovat obrazky podla id z DB a prechadzat medzi nimi pomocou tlacidiel
+- 1x <Img /> - obsahujuci image
+- 2x <But /> - pre tlacidla < a >
+- id posielajte cez GET query parameter

@@ -1,0 +1,1126 @@
+Uloha na cviceni
+Pocet je :  0
+Ukoncena komunikacia  1
+14
+
+//////////Zaciatok Ramca//////////
+Ramec:  346
+dåžka rámca poskytnutá pcap API:  62
+dåžka rámca poskytnutá po mediu:  66
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b10
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 30 a2 2c 40 00 80 06       fc be c0 a8 01 21 92 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  347
+dåžka rámca poskytnutá pcap API:  62
+dåžka rámca poskytnutá po mediu:  66
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 147.175.6.100
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1670
+0b10010
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 30 00 00 40 00 39 06       e5 eb 93 af 06 64 c2 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  348
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a2 2e 40 00 80 06       fc c4 c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  349
+dåžka rámca poskytnutá pcap API:  124
+dåžka rámca poskytnutá po mediu:  128
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b11000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 6e a2 31 40 00 80 06       fc 7b c0 a8 01 21 93 af       
+06 64 06 86 01 bb a5 46       f2 3d c7 d9 1c 7f 50 18       
+ff ff f8 9c 00 00 16 03       01 00 41 01 00 00 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  350
+dåžka rámca poskytnutá pcap API:  60
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 147.175.6.100
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1670
+0b10000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 28 8b 5a 40 00 39 06       5a 99 93 af 06 60 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  351
+dåžka rámca poskytnutá pcap API:  1334
+dåžka rámca poskytnutá po mediu:  1338
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 147.175.6.100
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1670
+0b11000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+05 28 8b 5b 40 00 39 06       55 98 93 af 06 64 c0 a8       
+01 21 01 bb 06 86 c7 d9       1c 7f a5 46 f2 83 50 18       
+16 d0 28 c0 00 00 16 03       01 00 4a 02 00 00 46 03       
+01 4d 6c 19 4a ee 68 01       e9 5a 81 7f 9f 04 9e 1c       
+57 8d 8d cb 96 8c 06 e8       7f f3 9e cf 54 dc 41 cd       
+c1 20 04 f9 60 ba a1 a7       45 91 1c a3 36 a6 bb ca       
+e7 1b ae 51 e2 8c 2d ef       31 f1 e3 a6 3b f0 48 b2       
+7e cb 00 04 00 16 03 01       04 a3 0b 00 04 9f 00 04       
+9c 00 04 99 30 82 04 95       30 82 03 fe a0 03 02 01       
+02 02 01 0a 30 0d 06 09       2a 86 48 86 f7 0d 01 01       
+04 05 00 30 81 b4 31 0b       30 09 06 03 55 04 06 13       
+02 53 4b 31 18 30 16 06       03 55 04 08 13 0f 53 6c       
+6f 76 61 6b 20 72 65 70       75 62 6c 69 63 31 13 30       
+11 06 03 55 04 07 13 0a       42 72 61 74 69 73 6c 61       
+76 61 31 28 30 26 06 03       55 04 0a 13 1f 53 6c 6f       
+76 61 6b 20 75 6e 69 76       65 72 73 69 74 79 20 6f       
+66 20 74 65 63 68 6e 6f       6c 6f 67 79 31 0c 30 0a       
+06 03 55 04 0b 13 03 43       56 54 31 1a 30 18 06 03       
+55 04 03 13 11 53 54 55       20 42 72 61 74 69 73 6c       
+61 76 61 20 43 41 31 22       30 20 06 09 2a 86 48 86       
+f7 0d 01 09 01 16 13 70       6f 73 74 6d 61 73 74 65       
+72 40 73 74 75 62 61 2e       73 6b 30 1e 17 0d 30 36       
+30 34 31 32 31 35 32 39       33 32 5a 17 0d 31 36 30       
+34 30 39 31 35 32 39 33       32 5a 30 81 ae 31 0b 30       
+09 06 03 55 04 06 13 02       53 4b 31 18 30 16 06 03       
+55 04 08 13 0f 53 6c 6f       76 61 6b 20 72 65 70 75       
+62 6c 69 63 31 13 30 11       06 03 55 04 07 13 0a 42       
+72 61 74 69 73 6c 61 76       61 31 28 30 26 06 03 55       
+04 0a 13 1f 53 6c 6f 76       61 6b 20 75 6e 69 76 65       
+72 73 69 74 79 20 6f 66       20 74 65 63 68 6e 6f 6c       
+6f 67 79 31 0c 30 0a 06       03 55 04 0b 13 03 43 56       
+54 31 14 30 12 06 03 55       04 03 13 0b 69 73 2e 73       
+74 75 62 61 2e 73 6b 31       22 30 20 06 09 2a 86 48       
+86 f7 0d 01 09 01 16 13       70 6f 73 74 6d 61 73 74       
+65 72 40 73 74 75 62 61       2e 73 6b 30 81 9f 30 0d       
+06 09 2a 86 48 86 f7 0d       01 01 01 05 00 03 81 8d       
+00 30 81 89 02 81 81 00       ef c4 8e a2 c1 27 5d 95       
+ad 2e d5 49 6b 58 f5 5d       98 7e f1 67 3f d8 7b ab       
+43 66 49 0b 5b fe 2c cd       d1 e5 b3 78 04 52 13 d1       
+0b 25 88 9c 72 f1 72 a0       bc fb d5 eb 3a 8e 84 4d       
+3e c1 84 f5 72 d6 dc 6b       cf 08 00 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  352
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a2 35 40 00 80 06       fc bd c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  353
+dåžka rámca poskytnutá pcap API:  236
+dåžka rámca poskytnutá po mediu:  240
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b11000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 de a2 39 40 00 80 06       fc 03 c0 a8 01 21 93 af       
+06 64 06 86 01 bb a5 46       f2 83 c7 d9 21 7f 50 18       
+fa ff 3f 0f 00 00 16 03       01 00 86 10 00 00 82 00       
+80 69 fd 2b 24 08 26 da       5a 3b a7 95 0a a3 9b 85       
+fc 17 f1 c9 90 6a ef eb       ac 60 73 c0 ff e1 57 37       
+93 a0 8c 5e e9 77 de 02       13 95 02 f0 cb 68 5d cf       
+3c ee cc a7 16 32 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  354
+dåžka rámca poskytnutá pcap API:  97
+dåžka rámca poskytnutá po mediu:  101
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 147.175.6.100
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1670
+0b11000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 53 8b 5c 40 00 39 06       5a 6c 93 af 06 64 c0 a8       
+01 21 01 bb 06 86 c7 d9       21 7f a5 46 f3 39 50 18       
+74 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  355
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a2 3c 40 00 80 06       fc b6 c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  356
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b10001
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a2 3f 40 00 80 06       fc b3 c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  358
+dåžka rámca poskytnutá pcap API:  77
+dåžka rámca poskytnutá po mediu:  81
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 147.175.6.100
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1670
+0b11000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 3f 8b 5d 40 00 39 06       5a 7f 93 af 06 64 c0 a8       
+01 21 01 bb 06 86 146 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  359
+dåžka rámca poskytnutá pcap API:  60
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 147.175.6.100
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1670
+0b10001
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 28 8b 5e 40 00 39 06       5a 95 93 af 06 60 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  360
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 147.175.6.100
+Zdrojový port:  1670
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a2 4a 40 00 80 06       fc a8 c0 
+//////////Koniec Ramca//////////
+
+
+
+Neukoncena komunikacia  586
+29
+
+//////////Zaciatok Ramca//////////
+Ramec:  944
+dåžka rámca poskytnutá pcap API:  62
+dåžka rámca poskytnutá po mediu:  66
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b10
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 30 a6 ed 40 00 80 06       2b 5a c0 a8 01 21 d2 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  960
+dåžka rámca poskytnutá pcap API:  62
+dåžka rámca poskytnutá po mediu:  66
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b10010
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 30 41 d7 00 00 34 06       1c 71 d1 55 95 61 c2 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  961
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a7 10 40 00 80 06       2b 3f c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  962
+dåžka rámca poskytnutá pcap API:  124
+dåžka rámca poskytnutá po mediu:  128
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b11000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 6e a7 11 40 00 80 06       2a f8 c0 a8 01 21 d1 55       
+95 61 06 d4 01 bb 25 dd       71 c7 e4 59 e7 ad 50 18       
+ff ff 31 e9 00 00 16 03       01 00 41 01 00 00 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  988
+dåžka rámca poskytnutá pcap API:  60
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b10000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 28 41 d8 00 00 34 06       1c 78 d1 55 95 60 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  989
+dåžka rámca poskytnutá pcap API:  1434
+dåžka rámca poskytnutá po mediu:  1438
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b10000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+05 8c 41 d9 00 00 34 06       17 13 d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 59       e7 ad 25 dd 72 0d 50 10       
+16 58 34 5c 00 00 16 03       01 00 4a 02 00 00 46 03       
+01 4d 6c 19 63 fe dc 24       97 14 30 81 79 9f bc a8       
+ea d9 38 45 73 2a 85 61       a5 4c 46 f3 2e 34 db 92       
+e1 20 26 4b 12 5d cd e6       3e 89 34 46 fb 37 d8 02       
+4a f7 17 f4 fa ad a8 f8       63 ff 59 80 df b0 af 06       
+fa da 00 05 00 16 03 01       06 61 0b 00 06 5d 00 06       
+5a 00 03 a0 30 82 03 9c       30 82 03 05 a0 03 02 01       
+02 02 0a 4d 38 e1 2b 00       03 00 00 21 51 30 0d 06       
+09 2a 86 48 86 f7 0d 01       01 05 05 00 30 46 31 0b       
+30 09 06 03 55 04 06 13       02 55 53 31 13 30 11 06       
+03 55 04 0a 13 0a 47 6f       6f 67 6c 65 20 49 6e 63       
+31 22 30 20 06 03 55 04       03 13 19 47 6f 6f 67 6c       
+65 20 49 6e 74 65 72 6e       65 74 20 41 75 74 68 6f       
+72 69 74 79 30 1e 17 0d       31 31 30 31 30 35 32 32       
+34 34 32 38 5a 17 0d 31       32 30 31 30 35 32 32 35       
+34 32 38 5a 30 70 31 0b       30 09 06 03 55 04 06 13       
+02 55 53 31 13 30 11 06       03 55 04 08 13 0a 43 61       
+6c 69 66 6f 72 6e 69 61       31 16 30 14 06 03 55 04       
+07 13 0d 4d 6f 75 6e 74       61 69 6e 20 56 69 65 77       
+31 13 30 11 06 03 55 04       0a 13 0a 47 6f 6f 67 6c       
+65 20 49 6e 63 31 1f 30       1d 06 03 55 04 03 14 16       
+2a 2e 67 6f 6f 67 6c 65       2d 61 6e 61 6c 79 74 69       
+63 73 2e 63 6f 6d 30 81       9f 30 0d 06 09 2a 86 48       
+86 f7 0d 01 01 01 05 00       03 81 8d 00 30 81 89 02       
+81 81 00 e4 a0 0f 77 73       3a e0 42 4f 82 cd e8 21       
+f8 c6 86 0d f4 50 7f 07       cd 28 9f c4 28 48 bb 62       
+3e 92 08 45 01 cd 5f 64       71 46 91 b5 ad 93 23 a6       
+40 60 d2 4e aa 6f 0f f1       d8 66 68 7b 11 7a 00 e5       
+0e ba eb a3 2a c4 64 cf       75 ff 76 14 18 66 06 fa       
+53 75 35 dc 7a e8 63 62       0e cd 25 cf ee b1 e0 56       
+86 5f f8 74 65 f7 a3 35       2c bc 54 03 a8 29 f1 f5       
+5b 78 2c 0b 01 20 22 2f       40 bf 1f af ea c8 f7 86       
+1f ba 3b 02 03 01 00 01       a3 82 01 65 30 82 01 61       
+30 1d 06 03 55 1d 0e 04       16 04 14 9e fa 01 75 b4       
+45 25 da a2 29 fe e4 40       2c 5b 91 5b 31 7f f7 30       
+1f 06 03 55 1d 23 04 18       30 16 80 14 bf c0 30 eb       
+f5 43 11 3e 67 ba 9e 91       fb fc 6a da e3 6b 12 24       
+30 5b 06 03 55 1d 1f 04       54 30 52 30 50 a0 4e a0       
+4c 86 4a 68 74 74 70 3a       2f 2f 77 77 77 2e 67 73       
+74 61 74 69 63 2e 63 6f       6d 2f 47 6f 6f 67 6c 65       
+49 6e 74 65 72 6e 65 74       41 75 74 68 6f 72 69 74       
+79 2f 47 6f 6f 67 6c 65       49 6e 74 65 7138 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  990
+dåžka rámca poskytnutá pcap API:  400
+dåžka rámca poskytnutá po mediu:  404
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b11000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+01 82 41 da 00 00 34 06       1b 1c d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 59       ed 11 25 dd 72 0d 50 18       
+16 58 ea 90 00 00 0e 33       14 47 c2 ef 01 50 79 e4       
+fd 69 d1 a7 c0 ac e2 57       6f 02 03 01 00 01 a3 81       
+a3 30 81 a0 30 0e 06 03       55 1d 0f 01 01 ff 04 04       
+03 02 01 06 30 1d 06 03       55 1d 0e 04 16 04 14 bf       
+c0 30 eb f5 43 11 3e 67       ba 9e 91 fb fc 6a da e3       
+6b 12 24 30 1f 06 03 55       1d 23 04 18 30 16 80 14       
+48 e6 68 f9 2b d2 b2 95       d7 47 d8 23 20 10 4f 33       
+98 90 9f d4 30 12 06 03       55 1d 13 01 01 ff 04 08       
+30 06 01 01 ff 02 01 00       30 3a 06 03 55 1d 1f 04       
+33 30 31 30 2f a0 2d a0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  991
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a7 4b 40 00 80 06       2b 04 c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  992
+dåžka rámca poskytnutá pcap API:  240
+dåžka rámca poskytnutá po mediu:  244
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b11000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 e2 a7 52 40 00 80 06       2a 43 c0 a8 01 21 d1 55       
+95 61 06 d4 01 bb 25 dd       72 0d e4 59 ee 6b 50 18       
+ff ff 79 4a 00 00 16 03       01 00 86 10 00 00 82 00       
+80 1d 95 4e 41 b0 8e 08       58 54 05 3c aa 0a 79 2d       
+a2 45 59 57 55 bc 5f ac       c1 93 cf dd 3b 59 b6 1e       
+6f 00 de 7e 00 68 26 29       1a 86 73 08 f0 6d bf 6c       
+8c b0 d0 b5 9c 21 05 a55 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1006
+dåžka rámca poskytnutá pcap API:  101
+dåžka rámca poskytnutá po mediu:  105
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b11000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+00 57 41 db 00 00 34 06       1c 46 d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 59       ee 6b 25 dd 72 c7 50 18       
+19 20 106 
+//////////Koniec Ramca//////////
+
+
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1021
+dåžka rámca poskytnutá pcap API:  1434
+dåžka rámca poskytnutá po mediu:  1438
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b10000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+05 8c 41 e1 00 00 34 06       17 0b d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 5a       09 8e 25 dd 74 2d 50 10       
+1d 50 d0 ee 00 00 02 b0       c5 ff 01 fe c8 a7 57 b5       
+0c b3 f9 1d b4 cd 16 ad       b6 db c1 e8 dc 67 e3 4c       
+f6 90 71 74 a0 44 d0 89       31 20 68 a8 f5 81 0d b4       
+06 63 44 6d f2 1b 2e a4       b3 3f b9 0f e9 6b 46 83       
+0a 5d 1b ce 85 4c 40 02       4b 4b 75 33 3b 64 83 1b       
+1a 68 79 4c 33 5c b4 b1       15 c6 86 26 d1 da 65 d6       
+43 f5 fc f6 a2 66 6e 37       e7 2e 6d fd 6e 81 82 96       
+28 37 4d 4e d6 e2 cb 79       d7 7a eb 0e f6 c4 04 b4       
+fa 02 77 89 a8 33 83 f0       1b 80 77 c3 6d 8a c8 50       
+5e 65 6c 4a 97 ac fc c2       1b 79 ee 7b c6 09 1d 99       
+d4 6a da c5 7b b1 e6 bb       ad b0 24 41 7b e1 16 1c       
+fc 5c f6 8a 37 31 e5 ed       80 34 f0 e6 c5 8e 5d 51       
+76 0a 58 1e 26 f6 03 f5       0d ab 79 4e 87 6f 51 48       
+66 ad de 77 41 98 2e e2       3d 72 e9 2a a9 c5 3d b3       
+68 77 f5 13 5c 3d 7d 74       ef 85 e1 f6 5c 81 29 df       
+9d fb f0 ee a0 8b ea b9       00 ab 3a 1b 03 54 12 29       
+d0 f3 58 bd f3 d1 73 ac       81 d6 37 61 eb 57 95 9c       
+fa a0 85 9b b5 95 d0 0c       bd 64 1f 7a d8 01 42 a6       
+20 0f 72 cd 59 2b b5 09       61 20 11 62 7c 6a 7e cd       
+9d e3 42 72 92 29 e1 de       50 23 93 c8 8f 6f 9b 1d       
+14 b0 0a e8 7b 73 be cc       02 de 4e 02 9f dc 39 2f       
+76 94 7d 78 7b 27 db 3d       ca 6a 4b 82 6f 6f 4d c9       
+c5 47 81 97 a4 b3 78 9e       16 ca c5 f2 a2 df bc 6b       
+90 3e ea b4 59 ad 57 17       a7 5b 96 e8 15 a1 b7 b7       
+55 d6 0d bd b8 4e 5a 42       b0 57 8b b2 c4 09 f6 1c       
+14 23 d1 88 21 81 be ec       88 e7 70 ed 07 49 77 5d       
+7d fa 0f 00 1c ee b4 b9       51 85 a6 ab 1f 96 5d b9       
+17 07 9e c4 1b 71 5d 48       5e b3 78 2b 9a 4c df 34       
+2c e0 24 85 8a f8 55 a3       c5 ca 58 51 ff ac 2d 9d       
+3f 80 05 98 bd b3 a9 e1       35 5a 75 97 74 24 ef 88       
+81 61 76 47 29 50 04 0f       ec 23 dc 2c 3c 97 03 44       
+e3 fd fc 31 09 e2 6d f2       88 72 b0 42 0d 0c 95 4b       
+26 8a ef 5c b3 59 13 3d       ab 42 e2 c0 9c b1 ed fc       
+88 c8 87 f2 bb 34 08 c3       7a 62 46 94 48 3c fa f0       
+04 e7 ee e4 c0 07 f0 a6       71 f7 86 32 e8 af 0b 83       
+6b 10 8a 9b 37 c7 a5 ad       f6 e2 bc 47 29 f0 ba 2c       
+49 cb b9 7c 1c bb d8 de       a7 8f 80 c1 e4 61 f5 27       
+96 b9 97 0b a4 56 e3 af       0a e5 15 a6 8e 75 39 e4       
+ce 51 6c 62 18 bb 09 0b       b6 59 99 77 df d7 a9 ba       
+4b f2 2d 7a 9a c3 9a d0       ec 6b 51 96 ab e4 46 7b       
+3c 9a bc b1 56 1f d2 fc       8e 03 b0 e0 65 9c a7 f6       
+64 cf b7 ca ee a3 97 a1       a2 d5 5d a1 13 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1022
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a7 89 40 00 80 06       2a c6 c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1023
+dåžka rámca poskytnutá pcap API:  1434
+dåžka rámca poskytnutá po mediu:  1438
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b10000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+05 8c 41 e2 00 00 34 06       17 0a d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 5a       0e f2 25 dd 74 2d 50 10       
+1d 50 c1 7f 00 00 f0 49       fb 38 d5 d7 c9 03 27 49       
+a6 ed 51 f5 81 4f 67 89       3c 63 49 ca 97 b5 2a 79       
+ef 9b e8 bd 4f d4 75 b8       56 ce 53 68 32 50 8a ef       
+ae 82 1a 83 c8 3a c3 c2       7e f9 f9 8a 73 85 69 22       
+fb 78 af 61 b1 6a fb 1f       bf c6 27 09 35 2d b1 05       
+40 d6 e5 85 1f 09 f6 43       9b d5 1c fb 3c 8e 4d 62       
+37 19 8e 1b d3 8f cb 34       91 b9 f8 43 77 48 05 2d       
+e0 36 6e 35 75 be 47 88       f9 55 fa c0 da c1 cf 9e       
+a1 c4 4e ca bc 22 0b 96       28 10 18 63 42 95 d5 f4       
+7d 3f 1d f4 2e 49 da 1f       cc b8 4c 85 59 6f e9 4b       
+54 85 63 f4 a7 d9 9d 29       6e 1a ff 28 e0 76 bb 69       
+95 18 54 72 35 be d0 e4       77 0c 0e ca 8d d6 32 2e       
+b5 2f 94 3d 7b e9 7c c9       c4 4f 11 08 ee 23 d5 3d       
+c8 2e a7 79 7b 5f ce 38       ec 92 f3 76 f5 58 36 2c       
+55 b2 d3 f4 b2 7f cf 1b       b5 d8 40 06 d4 1c cc a4       
+cd 40 7b c3 65 6d 01 2f       66 23 c9 73 0a e1 c0 34       
+8d 3f 16 fa cb 0b fc 67       05 67 00 2e e7 e8 47 0e       
+39 a7 11 c6 9e d3 c2 5b       2b 74 ad b9 d5 1a 5e e4       
+4e ea 3b ab 2f 6d 74 bb       f3 58 e8 0a 96 18 e4 7f       
+07 ed 37 cf 27 16 33 51       84 d9 b1 a5 fc 80 95 be       
+fc af cd 66 bf c1 57 c8       b4 c6 7f 79 27 49 85 b8       
+83 98 d9 0a ad 6c e8 b4       af f0 88 19 67 69 e3 8e       
+14 ec 25 02 b6 a8 84 17       03 01 08 14 06 47 eb bb       
+18 50 04 7e e1 17 50 75       f6 9f 6c 67 21 7c 4d 41       
+a5 5b 9a 5d 16 4f a2 fd       2d 94 4d 72 a5 2f c8 e9       
+7c 51 9e 50 54 e7 2e eb       12 92 f3 ce 9b 22 c5 31       
+c0 ae 21 38 fc 1a aa 73       ff 8a 09 4b c5 6a c8 20       
+cf 78 e8 70 7d 99 d7 a0       50 15 d8 1e 35 58 d1 d6       
+4f 38 f5 4f 3f 40 9e bb       10 52 05 87 03 0d 7b 6c       
+b5 a4 65 5a d1 b6 1d 40       da 3c 2e 33 e9 8f ca b1       
+51 c2 b0 2a e8 1c 2c 79       ee aa 17 ab a5 d7 16 5d       
+2c c7 46 8d c7 c8 11 8d       0a 3a c3 1a d0 6b d7 d0       
+92 f8 12 77 0c b1 52 31       ca b4 5c 5f 78 4f e8 9e       
+e5 89 4f 79 f1 39 58 c4       33 73 54 63 6d 88 d2 a0       
+f1 3d cf ca e8 ec db 61       74 16 13 82 48 24 c2 d0       
+f0 8d 53 5c aa f7 28 4e       c8 95 05 cc 68 4c 5b 78       
+90 01 a1 de 8f ec b8 fb       b1 82 90 56 ef 5e 88 f6       
+95 6e c5 09 da 68 35 27       9d b9 a5 00 e9 0e ec 4e       
+53 f5 d3 0b b2 75 45 47       35 d7 7a ce 0a f8 8a 69       
+f1 fd 81 ff 22 84 e7 05       76 e9 db ba 0b 5f 99 1d       
+9d 25 1d 64 5f ac 98 00       cf f5 34 0a 0d 9f 37 a1       
+aa a9 9e da 06 56 b9 14       5a 2c 23 08 4216 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1024
+dåžka rámca poskytnutá pcap API:  1434
+dåžka rámca poskytnutá po mediu:  1438
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b10000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+05 8c 41 e3 00 00 34 06       17 09 d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 5a       14 56 25 dd 74 2d 50 10       
+1d 50 9f 85 00 00 fc 75       7e 58 cd d3 60 da 7b 32       
+7f 91 7a a9 16 4b df 8a       6a 24 72 56 17 e4 a9 78       
+c1 83 e8 82 fa c9 ce 52       b9 41 34 22 a2 e1 3f 91       
+66 73 e1 7d 61 78 43 5c       60 9f fb df 55 b7 54 2f       
+1d 90 60 2e 18 70 2e 2a       5d e0 06 8a 79 7f ab 4c       
+a7 09 fb 19 ad f7 92 ce       52 e5 aa 69 c3 1e f7 26       
+aa 16 a4 c6 2b 85 14 b7       11 55 63 59 eb cc 49 08       
+3e 8f 51 b6 25 a3 8a 00       46 67 6d 68 cb a1 cc 0a       
+c0 4d 2a ac 8f 60 94 0b       4f d2 09 11 25 17 2b e8       
+ae ba 7d 9b 9d 9d df 49       61 44 e0 50 fa 0a ee 8b       
+dd ad fe 75 84 0e e0 cf       36 bb 0b 3f 5f ff 76 f4       
+de 5b 3d 1a d0 0f 09 ff       b8 96 18 61 d3 63 34 62       
+84 81 6d 1f 12 77 7c 3c       6d 21 3f 8f e5 bb 71 98       
+0c e9 f1 0a e5 73 dd 0e       8d 17 10 68 bf 04 30 84       
+23 97 fd 85 3e 7b 18 ac       b6 0b 27 95 19 15 76 01       
+93 bc 32 44 4b 77 6c a3       76 38 82 38 c2 70 01 e3       
+bc fe f7 ed 9b bb c3 bd       1d f9 17 9a 59 f6 a5 30       
+15 c0 b7 8a fa 26 57 e3       bf f7 02 fd 59 ec 12 28       
+3d c2 6d 44 80 05 a8 06       a4 2e f8 06 8c 38 ae 5e       
+20 72 2d e4 56 26 7f c4       d3 2f a4 87 50 02 6a 94       
+78 1b 4d c4 b3 09 df 13       c3 0f 37 3b a5 01 0a 53       
+0b d1 23 c0 d0 c4 c0 d2       53 8a 29 b9 dc cc 10 47       
+83 a0 08 09 d1 13 79 c9       12 48 ec ec 1a 27 36 c0       
+fc ce dd d6 d5 bb ff 40       41 b1 ac cf 44 bf 41 4e       
+bf 70 4a c2 a7 f0 8e 9d       76 f5 67 1f 8e 71 05 45       
+bf 18 5b d2 8d 4a 65 3c       4b 1b b9 5b f8 27 df bc       
+29 b8 0f 07 7d 77 cc 6b       ab fc a8 94 ec 6f 66 fe       
+e2 a6 00 9f 7d 94 27 27       85 3e e4 9e 57 d8 a6 f5       
+33 65 ae 20 62 5b fd 40       b7 82 00 63 e0 6b 35 ae       
+db f5 8f 8d cf e8 76 9f       31 e5 3b ef 0c 7a 9e 82       
+51 c4 52 67 23 cf cb 79       80 2b e4 de 7b ab 21 4f       
+e4 4d 16 03 8d e0 87 1b       32 e7 13 ba 81 11 44 06       
+c4 11 77 25 57 f0 9c 81       06 47 25 28 e4 90 9a 7c       
+0f d3 39 87 95 8d 41 32       3b 30 69 32 95 87 98 26       
+f7 fd 3d 06 bc 82 8a af       65 17 b6 88 28 ff 66 b1       
+10 8f 23 61 0d 14 2c d2       84 df 89 ce ae d1 73 44       
+18 a2 72 82 c4 7c a7 55       00 5b 5b 44 94 3f 09 13       
+eb 66 89 7c be c1 a3 a6       d1 b4 4f 54 9d c5 a1 d7       
+58 f8 2e ce 14 ad 9a 3a       73 11 75 33 fb b8 06 f0       
+00 9c c8 27 e0 f1 1b f8       87 47 d5 a7 df 71 5a 17       
+09 69 7f 97 80 dd f2 c4       c7 cc af 72 14 9e 1d 3e       
+43 84 52 5e e2 fa 71 51       12 26 9c cc 1190 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1025
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a7 90 40 00 80 06       2a bf c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1026
+dåžka rámca poskytnutá pcap API:  695
+dåžka rámca poskytnutá po mediu:  699
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b11000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+02 a9 41 e4 00 00 34 06       19 eb d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 5a       19 ba 25 dd 74 2d 50 18       
+1d 50 eb ee 00 00 dc b1       0f 25 64 6a f9 80 ef fe       
+1e 66 8f c3 9d ad ff cd       90 b7 95 42 f9 36 9a ee       
+2f df 12 c0 a7 90 b2 89       b6 bd 6e de 56 a1 31 61       
+0d 00 9f af ad 09 7d 52       a2 f4 8c 1b 12 4c 8d 6d       
+48 75 39 52 08 fc 9d 59       15 69 09 92 ee 5c 37 d3       
+ad 89 4a de 13 77 6e eb       2c 64 2e fd 52 9c 70 da       
+6b d5 5e 04 cd 2d a0 12       cc 7b 7a 49 c4 73 bc 0c       
+8a f7 20 ae 9b 00 e6 e9       07 1b 70 2b 86 21 a5 f0       
+70 a4 95 43 6a cf 0a 8d       29 6c 3e d2 b5 96 a4 e4       
+f4 c6 3d 2b 35 30 b7 b0       ec 0e 21 d9 ed 6a cc a0       
+30 49 1d b8 7e cf 68 37       b9 24 85 49 01 ed a3 5c       
+b7 43 09 ce 1f 31 e8 17       76 df f2 d5 84 33 ba 2d       
+ec 9a de 73 84 77 9a f5       0c 58 7d f4 12 50 79 8d       
+f8 ef a9 13 f8 90 c7 8f       51 38 73 59 a9 01 8a e1       
+a3 b6 71 84 f8 f3 74 99       f2 ca 21 d2 55 0e d7 6f       
+78 44 a2 bc 56 a1 bb 2b       10 22 f6 ca f5 cd 75 50       
+25 c8 ed 2e 37 48 e6 d0       c7 a3 9b d0 59 df 5f b1       
+92 2c 00 2c 09 6e 32 37       b0 5d 2f 72 18 60 86 93       
+7a 4f b8 d7 24 7a 6d 13       07 4e 27 227 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1027
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a7 9a 40 00 80 06       2a b5 c0 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1028
+dåžka rámca poskytnutá pcap API:  888
+dåžka rámca poskytnutá po mediu:  892
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b11000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+03 6a a7 9d 40 00 80 06       27 70 c0 a8 01 21 d1 55       
+95 61 06 d4 01 bb 25 dd       74 2d e4 5a 1c 3b 50 18       
+fd 7e 5f 46 00 00 17 03       01 03 3d db 9e fb 17 19       
+7c 8f 2e 51 0e bf e5 86       ab 03 86 b0 6f 9e 32 fd       
+14 bc 9c f9 f8 b4 35 04       8f a3 7b 13 de 86 b9 c3       
+bf a4 ac 9e 21 fe c0 ab       d6 b0 59 5c 7d d8 5e af       
+8b 66 66 a9 01 43 07 fa       8d bd 25 a7 e4 60 a1 81       
+2f 1d e6 fc 17 ad 2c 76       cc 22 97 8c 5c d1 cc 68       
+14 70 ab a0 dd 10 47 48       5d 3c e2 ea de eb f8 a0       
+79 0f 17 1c 66 c5 78 71       aa 2d c0 bc bb 02 e7 7d       
+e6 1f fd cb 1c 1d 5a b4       35 1c ea 54 5b 44 e7 ba       
+6a c7 f6 36 0f 47 7d 9f       c8 8d e4 b3 90 c1 c0 03       
+74 c6 68 4b ab a0 35 2a       fe f9 29 f6 d9 9d 73 b9       
+29 a3 a3 a3 75 7e 3a 91       cc 01 cb 0d dc c9 a0 b4       
+3f ff 2b a1 c4 9e 2b 35       53 25 d5 ca f4 6e 92 38       
+17 9b 89 af 38 6a b4 a7       1e 5b a0 b5 28 8d ce d1       
+93 3d f8 64 a0 93 ab 28       2d 0c 8e 65 bf df 03 d1       
+90 bd 8c 14 d3 62 56 2a       c0 1a 90 7f 93 b8 ef a3       
+46 78 12 eb 88 8b cb 20       ec 6a d7 31 16 46 2e e5       
+95 a1 27 c6 af 99 89 45       35 12 56 83 b4 cb f0 06       
+19 f3 e0 ee 29 b5 cf ab       dc dd a1 cf 04 ed 8d b9       
+b5 45 47 47 9f bf 31 5d       7a 80 3e ab 97 15 f8 bc       
+54 42 80 00 82 20 4b 38       24 4b ef 6b 78 ae e5 19       
+53 37 ed 4c 4c 57 71 d2       72 34 54 a9 71 7d 25 40       
+2b 8a 56 b9 81 f6 d1 b7       10 1f e2 b6 af a1 73 c5       
+bf 12 38 31 43 1e 92 6b       6c 0c c7 4f 7b fb 26 53       
+ad f8 2f c9 30 9f 32 78       79 fc 3e a24 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1029
+dåžka rámca poskytnutá pcap API:  434
+dåžka rámca poskytnutá po mediu:  438
+Zdrojová MAC  adresa: 00 14 38 06 e0 93 
+Cie¾ová MAC  adresa: 00 02 cf ab a2 4c 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 209.85.149.97
+Cielová IP adresa: 192.168.1.33
+Zdrojový port:  443
+Cielový port:  1748
+0b11000
+
+
+00 14 38 06 e0 93 00 02       cf ab a2 4c 08 00 45 00       
+01 a4 41 e5 00 00 34 06       1a ef d1 55 95 61 c0 a8       
+01 21 01 bb 06 d4 e4 5a       1c 3b 25 dd 77 6f 50 18       
+23 d6 ff 47 00 00 17 03       01 01 3b 26 10 2e 8c 79       
+b6 6a b1 25 89 e5 ab e3       e0 56 99 ff a1 d1 fd 44       
+1a 43 72 ad 4c f1 85 f7       41 67 19 9b e3 0b 01 da       
+6c 12 60 38 f8 11 28 b4       f9 ea 9f fb b8 d5 50 eb       
+2b 24 ea a7 27 b0 79 54       d1 f4 0f 3a e0 8c b6 fa       
+3b b9 7d 46 6d 40 ef fb       3f 11 c5 e7 44 cd 4b 4e       
+3f 8d 89 0f ef 07 23 a2       c9 c3 a9 12 3c 5d 9e fd       
+24 0f fc 79 48 1c 70 19       9a c9 26 5d 9e d4 81 42       
+1c fc 2a a4 38 09 1f ce       1f 90 69 b7 ac 1b 3a 81       
+1f 1a 28 80 c3 c9 c3 8c       cb c7 1e 62 05 d4 c3 e6       
+ac 1d a1 df 37 b6 3b 47       6197 
+//////////Koniec Ramca//////////
+
+
+
+
+//////////Zaciatok Ramca//////////
+Ramec:  1046
+dåžka rámca poskytnutá pcap API:  54
+dåžka rámca poskytnutá po mediu:  64
+Zdrojová MAC  adresa: 00 02 cf ab a2 4c 
+Cie¾ová MAC  adresa: 00 14 38 06 e0 93 
+ethernet II
+IPv4
+TCP
+HTTPS
+Zdrojová IP adresa: 192.168.1.33
+Cielová IP adresa: 209.85.149.97
+Zdrojový port:  1748
+Cielový port:  443
+0b10000
+
+
+00 02 cf ab a2 4c 00 14       38 06 e0 93 08 00 45 00       
+00 28 a7 bd 40 00 80 06       2a 92 c0 
+//////////Koniec Ramca//////////
+
+
+

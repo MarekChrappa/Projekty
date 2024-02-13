@@ -1,0 +1,2 @@
+- pridajte k dockeru relacnu databazu (najlepsie postgresql)
+- vytvorte stranku s inputom a tlacidlami save a load, ktore budu nacitavat a ukladat vysledok do DB

@@ -1,0 +1,12 @@
+table, th, td { border-collapse: collapse; }
+table {border: 1px solid black;}
+td { background: green; }
+.road { background: darkgrey; }
+.red,.car { background: red; }
+.white { background: white; }
+.black,.wheel { background: black; }
+.green { background: green; }
+.yellow { background: yellow; }
+.blue { background: blue; }
+.grey { background: grey; }
+.orange { background: orange; }

@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "PacketDotNet/0.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/net/PacketDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net/PacketDotNet.dll": {}
+        }
+      },
+      "SharpPcap/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "PacketDotNet": "0.13.0"
+        },
+        "compile": {
+          "lib/net/SharpPcap.dll": {}
+        },
+        "runtime": {
+          "lib/net/SharpPcap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PacketDotNet/0.13.0": {
+      "sha512": "uxoebIuWxvHcMEfYKHgLyYvaYabM2UiDnr7zWV8vLRBJclr7xSqULSRQlSzCQ2YTkpAI5zB5oYVNEdbD3gewdA==",
+      "type": "package",
+      "path": "packetdotnet/0.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/PacketDotNet.dll",
+        "lib/net/PacketDotNet.xml",
+        "packetdotnet.0.13.0.nupkg.sha512",
+        "packetdotnet.nuspec"
+      ]
+    },
+    "SharpPcap/4.2.0": {
+      "sha512": "f156C8z8gFgExPOAqVTu5HNeXIy43SMKgAzjWTi/ZoZx8Yc0wtQ+nzcee0d/r8CUIk0FBhmSwrVvGPx616CWzQ==",
+      "type": "package",
+      "path": "sharppcap/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/SharpPcap.dll",
+        "lib/net/SharpPcap.dll.config",
+        "lib/net/SharpPcap.xml",
+        "sharppcap.4.2.0.nupkg.sha512",
+        "sharppcap.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "SharpPcap >= 4.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\FIIT\\2.rocnik\\PSIP\\PSIP\\PSIP.csproj",
+      "projectName": "PSIP",
+      "projectPath": "C:\\Users\\PC\\Desktop\\FIIT\\2.rocnik\\PSIP\\PSIP\\PSIP.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\FIIT\\2.rocnik\\PSIP\\PSIP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "SharpPcap": {
+            "target": "Package",
+            "version": "[4.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PacketDotNet 0.13.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PacketDotNet",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SharpPcap 4.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SharpPcap",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
